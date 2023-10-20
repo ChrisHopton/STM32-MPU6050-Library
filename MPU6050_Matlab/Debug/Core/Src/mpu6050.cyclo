@@ -1,0 +1,2 @@
+../Core/Src/mpu6050.c:27:6:MPU6050_InitForInterrupts	2
+../Core/Src/mpu6050.c:60:6:readGyroData	1
